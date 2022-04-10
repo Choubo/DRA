@@ -10,7 +10,7 @@ requirements.txt` preferably in a virtualenv.
 ## Run
 
 #### Step 1. Setup the Anomaly Detection Dataset
-Download the Anomaly Detection Dataset and convert it to MVTec AD format. (For datasets we used in the paper, we provided the convert script.) 
+Download the Anomaly Detection Dataset and convert it to MVTec AD format. (For datasets we used in the paper, we provided the [convert script](https://github.com/Choubo/DRA/tree/main/data).) 
 The dataset folder structure should look like:
 ```
 DATA_PATH/
